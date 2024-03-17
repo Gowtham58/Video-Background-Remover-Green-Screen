@@ -1,4 +1,4 @@
-# Video_Backgroud_Remover_Green_Screen
+# Video-Backgroud-Remover-Green-Screen
 Removes your video background and adds green screen Using the briaai/RMBG-1.4 from HuggingFace 
 # Methodology
 Uses the cv2 library to read a video frame by frame. Then removes the background from every frame using the RMBG model from Briaai in HuggingFace
